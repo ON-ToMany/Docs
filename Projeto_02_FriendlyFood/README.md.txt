@@ -2,21 +2,28 @@
   <img src="Logo.png" alt="Friendly Food Logo" width="120" />
 </div>
 
-# 🚲 Friendly Food
+#  🍎 Friendly Food
 
-Plataforma de Gestão de Banco de Alimentos
-Projeto desenvolvido para o **Desafio de Impacto Social**
+App Delivery
+Projeto desenvolvido para o **Projeto Integrador 02**
 
 ## 📚 ESCOPO DO PROJETO
 
-* **Projeto:** Friendly Food
-* **Modelo:** Banco de Alimentos Digital
+* **Projeto:** Integrador 02 - Friendly Food
+* **Modelo:** Aplicativo de Delivery 
 
 ## 👥 GRUPO 01
 
 **Integrantes:**
-* Márcia Telles Fogaça
-* (Adicione aqui os outros integrantes do seu grupo)
+
+* Alvaro César
+* Breno Nunes
+* José Rodrigues
+* Márcia Fogaça
+* Maria Gomes
+* Mateus Santos
+* Mayara Monteiro
+
 
 ### 1️⃣ Nome do Projeto
 **Friendly Food**
@@ -26,7 +33,7 @@ API REST para gestão e conexão entre doadores e entidades beneficiadas.
 
 ### 3️⃣ Descrição do Projeto
 O **Friendly Food** nasceu para combater a insegurança alimentar através da tecnologia. Nossa plataforma gerencia doações de alimentos, garantindo:
-* 🍎 Classificação de itens (Perecíveis/Não-perecíveis)
+* 🍎 Classificação de itens (Perecíveis)
 * 📦 Controle rigoroso de estoque
 * ⏳ Monitoramento de prazos de validade
 * 🤝 Conexão direta com instituições receptoras
