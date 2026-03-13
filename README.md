@@ -171,7 +171,7 @@ Aplicação para gestão e conexão entre **doadores e entidades beneficiadas.**
 
 </div>
 
-## Classe FrindlyFood: `categoria`
+## Classe FriendlyFood: `categoria`
 
 <div align="center">
   
@@ -184,7 +184,7 @@ Aplicação para gestão e conexão entre **doadores e entidades beneficiadas.**
 
 </div>
 
-## Classe FrindlyFood: `produto`
+## Classe FriendlyFood: `produto`
 
 <div align="center">
 
@@ -205,7 +205,7 @@ Aplicação para gestão e conexão entre **doadores e entidades beneficiadas.**
 
 </div>
 
-## Classe FrindlyFood: `usuario`
+## Classe FriendlyFood: `usuario`
 
 <div align="center">
   
