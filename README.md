@@ -188,8 +188,8 @@ Aplicação para gestão e conexão entre **doadores e entidades beneficiadas.**
 
 <div align="center">
 
-| Atributo | Tipo | Descrição | Chave |
-|---------|------|-----------|------|
+| Atributo | Tipo | Descrição |
+|---------|------|-----------|
 |id|number|Identificador único da categoria, mapeado como chave primária com auto-incremento via @PrimaryGeneratedColumn().|
 |nome|string|Nome do produto. Mapeado com @Column().|
 |energia_kcal|number|Calorias por 100g. Mapeado com @Column('decimal'). Ponto negativo do NutriScore.|
