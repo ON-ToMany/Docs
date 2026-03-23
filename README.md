@@ -18,7 +18,7 @@ Sistemas desenvolvidos para <b>- Projeto Integrador</b>
 |-----|------------|
 | 🚲 IonGuard |  Seguradora E-Bike  |
 | 🥗 Friendly Food | App Delivery |
-| 🚧 Em andamento | Em andamento |
+| 🌱 GreenTech | Sistema CRM |
 
 </div>
 
