@@ -1,13 +1,10 @@
-<h1 align="center">
-  <img src="https://github.com/ON-ToMany.png" width="80" align="center">
-  <font <font size="6">ONEtoMany</font>
-</h1>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/66ceac0b-c09f-4317-b576-a4962622abfc" width="400" align="center">
 
 
+> Sistemas desenvolvidos para <b>- Projeto Integrador</b>
 
-<p align="center">
-Sistemas desenvolvidos para <b>- Projeto Integrador</b>
-</p>
+</div>
 
 
 # 📚 ESCOPO DOS PROJETOS
@@ -79,12 +76,19 @@ Aplicação para gestão e conexão entre **doadores e entidades beneficiadas.**
 
 # 📊 5 Diagrama Entidade-Relacionamento
 
+### IonGuard
 <p align="center">
 <img width="520" src="https://github.com/user-attachments/assets/438f3459-fb71-41ad-aa6c-3a9446c0a1ed">
 </p>
 
+### FriendlyFood
 <p align="center">
-<img width="520" src="https://github.com/user-attachments/assets/438f3459-fb71-41ad-aa6c-3a9446c0a1ed">
+<img width="600" src="https://github.com/user-attachments/assets/fd9c3e2e-807a-4290-a6f7-5b0f52b89419">
+</p>
+
+### GreenTech
+<p align="center">
+<img width="600" src="https://github.com/user-attachments/assets/0b5ba423-d1b7-4afe-94d5-63c000f9e026">
 </p>
 
 ---
